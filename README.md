@@ -19,9 +19,10 @@ Web/App server
 - Apache2 is installed.
 - Enabled CGI and restarted apache inorder to use cgi to have html webpage exposed with bash.
 - written cgi bash to expose ssh logins on to a webpage.
-uploaded attachment code: Script.sh
-uploaded screenshot: Application screenshot with the required data.
-Web application url: http://52.14.188.168/cgi-bin/script.sh
+
+-> uploaded attachment code: Script.sh
+-> uploaded screenshot: Application screenshot with the required data.
+-> Web application url: http://52.14.188.168/cgi-bin/script.sh
 
 Note: I have used AWS free tier eligible resources to build this requirement.
 
