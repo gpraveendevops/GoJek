@@ -26,7 +26,7 @@ Web/App server
 
 Note: I have used AWS free tier eligible resources to build this requirement.
 As the solution is done by AWS, there are some restrictions on the free tier eligible resosurces.Hence I have stopped the AWS EC2s that I have spinned up to perform this requirement. So I have attached all the codes and 'evidence of webapp'(screenshot). Hope that should suffice.
-# If you wanted to test the app, please do let me know so that I can start the servers and confirm you back for testing.
+
 
 # Part - 2 ---- Can be configured by running a simple Ansible playbook
 1. Here we can automate the deployment using Ansible.
